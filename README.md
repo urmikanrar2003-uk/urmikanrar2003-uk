@@ -10,10 +10,10 @@
 
 ---
 
-## 👋 Hi, I'm Praveen Agrawal  
+## 👋 Hi, I'm Urmi Kanrar 
 
-🎓 **M.Sc. Data Science** @ **IIIT Lucknow**  
-🤖 **AI / ML Engineer** specializing in **Agentic AI, LLM Systems, and RAG Pipelines**
+🎓 **M.Sc. AI & ML** @ **IIIT Lucknow**  
+🤖 **AI / ML Engineer** specializing in **Machine Learning,Deep Learning**
 
 I build **production-ready AI systems** using **LangChain, LangGraph, FastAPI**, and **LoRA-based LLM fine-tuning**, with a focus on **multi-agent orchestration, grounded reasoning, and scalable AI backends**.
 
@@ -75,7 +75,7 @@ I build **production-ready AI systems** using **LangChain, LangGraph, FastAPI**,
 
 ## 🏆 Highlights  
 
-- **IIT JAM 2024 — AIR 1080 (Top 7%)**  
+- **IIT JAM 2025 — AIR 300 (Top 7%)**  
 - IndiaAI (IIT Roorkee): Responsible & Trustworthy AI  
 - IIT Guwahati: Revenue Optimization Project  
 - ISRO Bharatiya Antariksh Hackathon 2025  
