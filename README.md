@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&text=Praveen%20Agrawal&fontAlign=50&fontAlignY=35&color=0:1e3c72,100:2a5298&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=165&text=Urmi%20Kanrar&fontAlign=50&fontAlignY=35&color=0:1e3c72,100:2a5298&fontColor=ffffff" />
 </p>
 
 <!-- Typing -->
