@@ -25,7 +25,8 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 - **Machine Learning:** Regression, Classification, Tree-based Models, Ensemble Methods  
 - **Deep Learning:** ANN, CNN, RNN basics, Transfer Learning (TensorFlow / PyTorch)  
 - **Computer Vision:** Image Classification, Signal & Image Feature Extraction  
-- **Data & Databases:** SQL, Data Cleaning, EDA, Feature Engineering  
+- **Data Science & Statistics:** EDA, Feature Engineering, Hypothesis Testing, Probability, Statistical Inference  
+- **Data & Databases:** SQL, Data Cleaning  
 - **MLOps & Tools:** Git, Docker (basic), Streamlit, Model Evaluation & Deployment  
 
 ---
@@ -39,9 +40,9 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 
 ---
 
-### 🔹 M.Sc. 1st Semester Academic Project  
-- Applied machine learning techniques on real-world datasets  
-- Covered data preprocessing, exploratory analysis, model training, and performance comparison  
+### 🔹 Social Media Sentiment Analysis  
+- Applied machine learning techniques to analyze and classify sentiment from social media data  
+- Included data preprocessing, exploratory analysis, and model evaluation  
 🔗 https://github.com/urmikanrar2003-uk/Msc-1st-sem-project  
 
 ---
@@ -50,6 +51,16 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 - Worked on applied AI/ML tasks as part of the IDEAS-TIH internship program  
 - Involved data handling, model development, and experimentation  
 🔗 https://github.com/urmikanrar2003-uk/IDEAS-TIH-internship  
+
+---
+
+## 📜 Certifications  
+
+- **Coursera Certification**  
+  🔗 https://coursera.org/share/e72f5cd4cc461aaeaa463084022ff3af  
+
+- **Columbia University Digital Badge**  
+  🔗 https://badges.plus.columbia.edu/bae8b526-b58d-47cd-898a-d0145e3705e8#acc.TAd5mecg  
 
 ---
 
