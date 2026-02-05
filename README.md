@@ -23,8 +23,8 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 ## 🧠 Technical Skills  
 
 - **Machine Learning:** Regression, Classification, Tree-based Models, Ensemble Methods  
-- **Deep Learning:** ANN, CNN, RNN basics, Transfer Learning (TensorFlow / PyTorch)  
-- **Computer Vision:** Image Classification, Signal & Image Feature Extraction  
+- **Deep Learning:** ANN, CNN, RNN, LSTM, GRU, Transfer Learning (TensorFlow / PyTorch, Keras)  
+- **Computer Vision:** Image & Signal Processing, Feature Extraction  
 - **Data Science & Statistics:** EDA, Feature Engineering, Hypothesis Testing, Probability, Statistical Inference  
 - **Data & Databases:** SQL, Data Cleaning  
 - **MLOps & Tools:** Git, Docker (basic), Streamlit, Model Evaluation & Deployment  
@@ -34,22 +34,25 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 ## 🚀 Projects  
 
 ### 🔹 Heart Murmur Detection System  
-- Built an ML-based system to detect heart murmurs from phonocardiogram (PCG) signals  
-- Focused on signal preprocessing, feature extraction, and model evaluation  
+- Hybrid **CNN + LSTM** architecture for PCG signal classification  
+- **Keras Hyperparameter Tuning** for model optimization  
+- Achieved **97% validation accuracy** and **96% test accuracy**  
 🔗 https://github.com/urmikanrar2003-uk/Heart_murmur_project  
 
 ---
 
 ### 🔹 Social Media Sentiment Analysis  
-- Applied machine learning techniques to analyze and classify sentiment from social media data  
-- Included data preprocessing, exploratory analysis, and model evaluation  
+- Sentiment classification using **stacked ensemble models**  
+- Base learners: **SVM, Logistic Regression, Naive Bayes**  
+- Achieved **82% test accuracy** on social media text data  
 🔗 https://github.com/urmikanrar2003-uk/Msc-1st-sem-project  
 
 ---
 
 ### 🔹 IDEAS-TIH Internship Project *(Road Accident Cause Identification & Severity Prediction)*  
-- Worked on applied AI/ML tasks as part of the IDEAS-TIH internship program  
-- Involved data handling, model development, and experimentation  
+- Built **ensemble models** using **Random Forest, Logistic Regression, SVM, XGBoost**  
+- Performed **time series forecasting** using **SARIMA and GRU**  
+- Focused on accident cause analysis and severity prediction  
 🔗 https://github.com/urmikanrar2003-uk/IDEAS-TIH-internship  
 
 ---
