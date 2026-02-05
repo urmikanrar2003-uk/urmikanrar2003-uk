@@ -47,7 +47,7 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 
 ---
 
-### 🔹 IDEAS-TIH Internship Project  
+### 🔹 IDEAS-TIH Internship Project *(Road Accident Cause Identification & Severity Prediction)*  
 - Worked on applied AI/ML tasks as part of the IDEAS-TIH internship program  
 - Involved data handling, model development, and experimentation  
 🔗 https://github.com/urmikanrar2003-uk/IDEAS-TIH-internship  
