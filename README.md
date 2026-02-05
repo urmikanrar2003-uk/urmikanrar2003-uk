@@ -5,83 +5,65 @@
 
 <!-- Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=880&lines=M.Sc.+AI/ML+%40+IIIT+Lucknow;AI%2FML+Engineer+%7C+Generative+AI;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=880&lines=M.Sc.+AI+%26+ML+%40+IIIT+Lucknow;AI+%2F+ML+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision" />
 </p>
-</p>
 
 ---
 
-## 👋 Hi, I'm Urmi Kanrar 
+## 👋 Hi, I'm Urmi Kanrar  
 
-🎓 **M.Sc. AI & ML** @ **IIIT Lucknow**  
-🤖 **AI / ML Engineer** specializing in **Machine Learning,Deep Learning**
+🎓 **M.Sc. Artificial Intelligence & Machine Learning** @ **IIIT Lucknow**  
+🤖 **AI / ML Engineer**
 
-I build **production-ready Machine Learning and Deep Learning systems** with experience in **MLOps, Computer Vision**, and **statistical modeling**, with a focus on **end-to-end data science workflows, model deployment, and scalable ML applications using Streamlit.**.
-
----
-
-## 🧠 Core Skills
-
-
-- **Machine Learning:** Linear & Logistic Regression, Ridge/Lasso/ElasticNet, k-NN, Naive Bayes, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM.
-- **Deep Learning:** CNNs, Transfer Learning,RNN, ANN architectures (TensorFlow / PyTorch),LSTM,GRU,Transformer.
-- **Computer Vision:** Image Classification, Object Detection basics, Feature Extraction, OpenCV
-- **Data Science & Statistics:** EDA, Feature Engineering, Hypothesis Testing, Probability, Statistical Inference  
-- **Backend & MLOps:** FastAPI, Streamlit, Docker, AWS (S3, EC2),Git,DVC
+I work on **end-to-end Machine Learning and Deep Learning projects**, with hands-on experience in **data analysis, model development, evaluation, and deployment**.  
+My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 
 ---
 
-## 🚀 Selected Projects  
+## 🧠 Technical Skills  
 
-### 🔹 Production-Ready Agentic Hybrid RAG System  
-- Multi-agent system with **LangGraph state machine**
-- **92% retrieval accuracy**, **40% hallucination reduction**
-- Real-time streaming with persistent memory  
-*Private / Demo-based project*
-
----
-
-### 🔹 PPE Compliance Detection System  
-- Real-time industrial safety AI system  
-- **mAP@50: 92.4% | Precision: 91.2%**  
-🔗 https://github.com/agrawalpraveen12/PPE-Detection-System-Using-YOLOv8
+- **Machine Learning:** Regression, Classification, Tree-based Models, Ensemble Methods  
+- **Deep Learning:** ANN, CNN, RNN basics, Transfer Learning (TensorFlow / PyTorch)  
+- **Computer Vision:** Image Classification, Signal & Image Feature Extraction  
+- **Data & Databases:** SQL, Data Cleaning, EDA, Feature Engineering  
+- **MLOps & Tools:** Git, Docker (basic), Streamlit, Model Evaluation & Deployment  
 
 ---
 
-### 🔹 Deepfake Image Detection  
-- ResNet-18 based real vs fake image classification  
-- **94.2% accuracy | AUC: 0.96**  
-🔗 https://github.com/agrawalpraveen12/Deepfake-Detection-of-images
+## 🚀 Projects  
+
+### 🔹 Heart Murmur Detection System  
+- Built an ML-based system to detect heart murmurs from phonocardiogram (PCG) signals  
+- Focused on signal preprocessing, feature extraction, and model evaluation  
+🔗 https://github.com/urmikanrar2003-uk/Heart_murmur_project  
 
 ---
 
-### 🔹 SpanBERT Fine-Tuning (LoRA)  
-- Domain-specific QA system  
-- **F1: 68.6% | EM: 59.9%**  
-*Repository available on request*
+### 🔹 M.Sc. 1st Semester Academic Project  
+- Applied machine learning techniques on real-world datasets  
+- Covered data preprocessing, exploratory analysis, model training, and performance comparison  
+🔗 https://github.com/urmikanrar2003-uk/Msc-1st-sem-project  
+
+---
+
+### 🔹 IDEAS-TIH Internship Project  
+- Worked on applied AI/ML tasks as part of the IDEAS-TIH internship program  
+- Involved data handling, model development, and experimentation  
+🔗 https://github.com/urmikanrar2003-uk/IDEAS-TIH-internship  
 
 ---
 
 ## 📊 GitHub Activity  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agrawalpraveen12&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=urmikanrar2003-uk&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agrawalpraveen12&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agrawalpraveen12&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=urmikanrar2003-uk&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=urmikanrar2003-uk&theme=github_dark" />
 </p>
 
 ---
 
-## 🏆 Highlights  
-
-- **IIT JAM 2025 — AIR 300 (Top 7%)**  
-- IndiaAI (IIT Roorkee): Responsible & Trustworthy AI  
-- IIT Guwahati: Revenue Optimization Project  
-- ISRO Bharatiya Antariksh Hackathon 2025  
-
----
-
-⭐ *Open to Generative AI & Agentic AI roles*
+⭐ *Open to AI / ML Engineer and Data Science opportunities*
