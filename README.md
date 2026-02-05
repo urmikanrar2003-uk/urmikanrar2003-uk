@@ -15,17 +15,18 @@
 🎓 **M.Sc. AI & ML** @ **IIIT Lucknow**  
 🤖 **AI / ML Engineer** specializing in **Machine Learning,Deep Learning**
 
-I build **production-ready AI systems** using **LangChain, LangGraph, FastAPI**, and **LoRA-based LLM fine-tuning**, with a focus on **multi-agent orchestration, grounded reasoning, and scalable AI backends**.
+I build **production-ready Machine Learning and Deep Learning systems** with experience in **MLOps, Computer Vision**, and **statistical modeling**, with a focus on **end-to-end data science workflows, model deployment, and scalable ML applications using Streamlit.**.
 
 ---
 
-## 🧠 Core Skills  
+## 🧠 Core Skills
 
-- **Agentic AI:** LangChain, LangGraph, Tool Calling, Multi-Agent Orchestration  
-- **RAG Systems:** Hybrid Retrieval, Vector Databases, Grounded QA  
-- **LLMs:** Fine-Tuning (LoRA, PEFT), Prompt Engineering  
-- **ML/DL:** XGBoost, CNNs, Transfer Learning  
-- **Backend & MLOps:** FastAPI, Streamlit, Docker, AWS (S3, EC2)
+
+- **Machine Learning:** Linear & Logistic Regression, Ridge/Lasso/ElasticNet, k-NN, Naive Bayes, Decision Trees, Random Forest, Gradient Boosting (XGBoost, LightGBM, CatBoost), SVM.
+- **Deep Learning:** CNNs, Transfer Learning,RNN, ANN architectures (TensorFlow / PyTorch),LSTM,GRU,Transformer.
+- **Computer Vision:** Image Classification, Object Detection basics, Feature Extraction, OpenCV
+- **Data Science & Statistics:** EDA, Feature Engineering, Hypothesis Testing, Probability, Statistical Inference  
+- **Backend & MLOps:** FastAPI, Streamlit, Docker, AWS (S3, EC2),Git,DVC
 
 ---
 
