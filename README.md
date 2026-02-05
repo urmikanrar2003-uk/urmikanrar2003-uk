@@ -5,7 +5,8 @@
 
 <!-- Typing -->
 <p align="center">
-  font=Fira+Code&pause=1200&center=true&vCenter=true&width=880&lines=M.Sc.+AI-ML+%40+IIIT+Lucknow;AI%2FML+Engineer+%7C+Generative+AI;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=880&lines=M.Sc.+AI/ML+%40+IIIT+Lucknow;AI%2FML+Engineer+%7C+Generative+AI;Agentic+AI+%7C+LangChain+%7C+LangGraph+%7C+RAG" />
+</p>
 </p>
 
 ---
