@@ -41,12 +41,22 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 
 ---
 
-### 🔹 Social Media Sentiment Analysis  
-- Sentiment classification using **stacked ensemble models**  
-- Base learners: **SVM, Logistic Regression, Naive Bayes**  
-- Achieved **82% test accuracy** on social media text data  
-🔗 https://github.com/urmikanrar2003-uk/Msc-1st-sem-project  
+### 🔹 Social Video Audience Sentiment Intelligence  
 
+- Built an **end-to-end YouTube sentiment analysis system** to classify comments into **Positive, Neutral, and Negative** sentiments  
+- **Collected dataset by scraping YouTube comments using the YouTube Data API v3**, then **manually labeled and structured the dataset into CSV format**  
+- Conducted extensive experimentation with multiple machine learning models including **Softmax, Naive Bayes, CatBoost, XGBoost, and Stacking Ensembles**  
+- Observed limitations due to **class imbalance**, particularly affecting **Neutral class recall**, leading to further model exploration  
+- Implemented a **DistilBERT transformer model**, which significantly improved contextual understanding and sentiment classification performance  
+- Developed a **Chrome Extension – YouTube Sentiment Insights**, which:
+  - Generates a **WordCloud** from comment keywords  
+  - Displays **sentiment distribution percentages**  
+  - Highlights **sentiment of top comments**  
+  - Produces **monthly sentiment trend graphs over time**  
+- Demonstrates a complete **AI pipeline from data collection → preprocessing → model experimentation → transformer-based modeling → real-world application**
+
+🔗 Repository:  
+https://github.com/urmikanrar2003-uk/social-video-audience-sentiment-intelligence
 ---
 
 ### 🔹 IDEAS-TIH Internship Project *(Road Accident Cause Identification & Severity Prediction)*  
