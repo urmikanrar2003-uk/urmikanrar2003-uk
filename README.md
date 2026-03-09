@@ -13,7 +13,7 @@
 ## 👋 Hi, I'm Urmi Kanrar  
 
 🎓 **M.Sc. Artificial Intelligence & Machine Learning** @ **IIIT Lucknow**  
-🤖 **AI / ML Engineer**
+🤖 Aspiring **AI / ML Engineer**
 
 I work on **end-to-end Machine Learning and Deep Learning projects**, with hands-on experience in **data analysis, model development, evaluation, and deployment**.  
 My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
