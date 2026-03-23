@@ -27,7 +27,8 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 - **Computer Vision:** Image & Signal Processing, Feature Extraction  
 - **Data Science & Statistics:** EDA, Feature Engineering, Hypothesis Testing, Probability, Statistical Inference  
 - **Data & Databases:** SQL, Data Cleaning  
-- **MLOps & Tools:** Git, Docker (basic), Streamlit, Model Evaluation & Deployment  
+- **MLOps & Tools:** Git, Docker, Streamlit,MLflow,DVC,AWS,MongoDB,HuggingFace, Model Evaluation & Deployment
+- **GenAI:** Langchain,RAG,Chatbot building
 
 ---
 
