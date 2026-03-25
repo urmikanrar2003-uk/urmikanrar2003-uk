@@ -27,8 +27,8 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 - **Computer Vision:** Image & Signal Processing, Feature Extraction  
 - **Data Science & Statistics:** EDA, Feature Engineering, Hypothesis Testing, Probability, Statistical Inference  
 - **Data & Databases:** SQL, Data Cleaning  
-- **MLOps & Tools:** Git, Docker, Streamlit,MLflow,DVC,AWS,MongoDB,HuggingFace,CI pipeline, Model Evaluation & Deployment
-- **GenAI:** Langchain,RAG,Chatbot building
+- **MLOps & Tools:** Git, Docker, Streamlit, MLflow, DVC, AWS, MongoDB, HuggingFace, CI pipeline, Model Evaluation & Deployment  
+- **GenAI:** LangChain, RAG, Chatbot building  
 
 ---
 
@@ -43,26 +43,31 @@ My interests include **Computer Vision, Healthcare AI, and applied ML systems**.
 ---
 
 ### 🔹 Social Video Audience Sentiment Intelligence  
+- Built an **end-to-end YouTube sentiment analysis pipeline** (Positive, Neutral, Negative)  
+- Collected data using **YouTube Data API v3** and structured it for modeling  
+- Experimented with **Naive Bayes, CatBoost, XGBoost, and Stacking Ensembles**  
+- Improved performance using **DistilBERT for contextual understanding**  
+- Developed a **Chrome Extension** for sentiment insights, word clouds, and trend visualization  
 
-- Built an **end-to-end YouTube sentiment analysis system** to classify comments into **Positive, Neutral, and Negative** sentiments  
-- **Collected dataset by scraping YouTube comments using the YouTube Data API v3**, then **labeled and structured the dataset into CSV format**  
-- Conducted extensive experimentation with multiple machine learning models including **Softmax, Naive Bayes, CatBoost, XGBoost, and Stacking Ensembles**  
-- Observed limitations due to **class imbalance**, particularly affecting **Neutral class recall**, leading to further model exploration  
-- Implemented a **DistilBERT transformer model**, which significantly improved contextual understanding and sentiment classification performance  
-- Developed a **Chrome Extension – YouTube Sentiment Insights**, which:
-  - Generates a **WordCloud** from comment keywords  
-  - Displays **sentiment distribution percentages**  
-  - Highlights **sentiment of top comments**  
-  - Produces **monthly sentiment trend graphs over time**  
-- Demonstrates a complete **AI pipeline from data collection → preprocessing → model experimentation → transformer-based modeling → real-world application**
+🔗 https://github.com/urmikanrar2003-uk/social-video-audience-sentiment-intelligence  
 
-🔗 **Repository:**  
-[Social Video Audience Sentiment Intelligence](https://github.com/urmikanrar2003-uk/social-video-audience-sentiment-intelligence)
+---
+
+### 🔹 IndiGo Airline RAG Chatbot  
+- Built an **end-to-end RAG pipeline** using **LangChain + ChromaDB**  
+- Implemented **document ingestion (PDF + CSV), chunking, and embeddings**  
+- Enabled **context-aware Q&A** using LLM-based retrieval  
+- Deployed with **Streamlit conversational UI**  
+
+🔗 https://github.com/urmikanrar2003-uk/Indigo_airlines_RAG_chatbot  
+
+---
 
 ### 🔹 IDEAS-TIH Internship Project *(Road Accident Cause Identification & Severity Prediction)*  
 - Built **ensemble models** using **Random Forest, Logistic Regression, SVM, XGBoost**  
 - Performed **time series forecasting** using **SARIMA and GRU**  
 - Focused on accident cause analysis and severity prediction  
+
 🔗 https://github.com/urmikanrar2003-uk/IDEAS-TIH-internship  
 
 ---
